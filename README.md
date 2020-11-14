@@ -26,6 +26,7 @@
 - http://hallard.me/pitinfov12/ 
 
 - https://sandervandevelde.wordpress.com/2016/12/27/building-a-door-switch-using-domoticz-x10rf-and-arduino/
+- https://github.com/pyrou/X10RF-Arduino
 
 - http://connectingstuff.net/blog/encodage-protocoles-oregon-scientific-sur-arduino/
 - https://github.com/onlinux/OWL-CM180

@@ -25,6 +25,7 @@
 - http://www.domotique-info.fr/2014/05/recuperer-teleinformation-arduino/
 - http://hallard.me/pitinfov12/ 
 
+- https://sandervandevelde.wordpress.com/2016/12/27/building-a-door-switch-using-domoticz-x10rf-and-arduino/
+
 - http://connectingstuff.net/blog/encodage-protocoles-oregon-scientific-sur-arduino/
 - https://github.com/onlinux/OWL-CM180
-

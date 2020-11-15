@@ -8,9 +8,12 @@
 - 1 module radio émetteur 433 MHz avec antenne
 - 1 connecteur à vis 2 pôles
 - 1 optocoupleur (LTV-814) 
-- 2 resistances 10kOhm
-- 1 resistance 4,7kOhm
+- 2 resistances 10 kOhm
+- 1 resistance 4,7 kOhm
+- 1 resistance 150 Ohm
 - 1 MOSFET-N (BS170)
+- 1 LED verte
+
 
 ## Prototypage
 
